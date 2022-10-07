@@ -21,7 +21,7 @@ WHAT IS HTML?
 * Simple. 
 * Structure of web page. 
 * Building blocks
-* 
+
 
 
 
